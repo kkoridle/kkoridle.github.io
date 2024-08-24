@@ -1,1 +1,0 @@
-import{_ as t,v as o,t as s,x as e}from"./CHdxqi_p.js";const n={},a=e("h2",null,"About Page",-1),c=e("p",null,"Learn more about us on this page.",-1),_=[a,c];function r(l,u){return s(),o("div",null,_)}const i=t(n,[["render",r]]);export{i as default};
