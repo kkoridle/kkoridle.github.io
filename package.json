@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxi build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "homepage": "https://github.com/kkoridle/kkoridle.github.io",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "nuxt": "^3.13.0",
+    "sass": "^1.77.8",
+    "sass-loader": "^16.0.1",
+    "vue": "latest"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
