@@ -1,0 +1,1 @@
+import{_ as o,v as t,t as c,x as e}from"./CrR-dppR.js";const n={},s=e("h2",null,"Home Page",-1),_=e("p",null,"Welcome to the home page!",-1),a=[s,_];function r(l,d){return c(),t("div",null,a)}const h=o(n,[["render",r]]);export{h as default};
